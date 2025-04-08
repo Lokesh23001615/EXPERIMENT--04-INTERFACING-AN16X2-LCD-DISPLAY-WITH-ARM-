@@ -387,7 +387,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  #### OFF Condition:
  ![Screenshot 2025-03-27 143036](https://github.com/user-attachments/assets/94bd934f-4514-4069-85f0-b7e1aea77790)
  #### ON Conition:
- ![Screenshot 2025-03-27 143201](https://github.com/user-attachments/assets/2c57a893-0ba8-4bba-bc78-478ec6a1c7ea)
+![image](https://github.com/user-attachments/assets/ba27c0cf-c798-4241-93ea-a9212a4d4775)
+
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
