@@ -202,7 +202,6 @@ void lcd_display(){
 
 	Lcd_cursor(&lcd,1,1);
 	Lcd_string(&lcd,"212223230151\n");
-	Lcd_clear(&lcd);
 }
 
 
